@@ -8,8 +8,9 @@ using yacc and lex Compiler Pascal to C
 4. gcc version 8.1.0
 5. Free Pascal Compiler 3.2.2
 # Compliler:
+```
 make
-
+```
 # Terminal operation:
 ```
 del test.c test.txt
