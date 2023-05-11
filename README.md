@@ -11,10 +11,13 @@ using yacc and lex Compiler Pascal to C
 make
 
 # Terminal operation:
+```
 del test.c test.txt
-(-f sourcefile -o outfile -d debugfile)
-parser -f test.pas -o test.c -d test.txt 
 
+parser -f test.pas -o test.c -d test.txt (-f sourcefile -o outfile -d debugfile)
+```
 # Front-end start-up
+```
 #pip install streamlit
 streamlit run demo.py
+```
