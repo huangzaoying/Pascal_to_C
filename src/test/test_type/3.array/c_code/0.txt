@@ -1,0 +1,6 @@
+At (9, 9), ERROR: Illegal qualifier
+
+At (12, 10), ERROR: Illegal qualifier
+
+
+finished.

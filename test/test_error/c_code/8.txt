@@ -1,0 +1,4 @@
+At (4, 27), ERROR: The symbol 'of' is expected.
+
+
+finished.

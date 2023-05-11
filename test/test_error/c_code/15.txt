@@ -1,0 +1,5 @@
+At (3, 41), ERROR: A semicolon(';') is expected.
+
+At (3, 42), ERROR: The symbol begin is expected.
+
+At (3, 42), an unrecoverable error has occurred, the compilation is aborted.

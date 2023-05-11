@@ -1,0 +1,3 @@
+At (5, 12), ERROR: An opening parenthesis('(') is expected.
+
+At (5, 12), an unrecoverable error has occurred, the compilation is aborted.

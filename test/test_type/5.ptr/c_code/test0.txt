@@ -1,0 +1,6 @@
+At (8, 9), ERROR: Incompatible types : got REAL expected INT
+
+At (14, 13), ERROR: Incompatible type for arg no. 2: Got INT , expected REAL
+
+
+finished.

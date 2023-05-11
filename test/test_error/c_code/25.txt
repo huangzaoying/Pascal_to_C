@@ -1,0 +1,4 @@
+At (3, 9), ERROR: In a constant definition, the equal sign must be followed constant.
+
+
+finished.

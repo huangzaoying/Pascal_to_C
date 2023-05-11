@@ -1,0 +1,4 @@
+At (6, 4), ERROR: The symbol ':=' is expected. (No space between : and =).
+
+
+finished.

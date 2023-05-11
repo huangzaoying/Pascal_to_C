@@ -1,0 +1,4 @@
+At (3, 11), ERROR: A colon(':') is expected. In declarations, the colon(':') is followed by a type.
+
+
+finished.

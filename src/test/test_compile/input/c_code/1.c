@@ -1,0 +1,76 @@
+#include <stdio.h>
+
+char g,h;
+float e,f;
+int c,d;
+int a,b;
+
+int main()
+{
+	a = 1;
+	b = 0;
+	c = 10;
+	d = 3;
+	e = 10.5;
+	f = 2.5;
+	g = 'a';
+	h = 'b';
+	printf("%d\n", a & b);
+	printf("%d\n", a|b);
+	printf("%d\n", !a);
+	printf("%d\n", a==b);
+	printf("%d\n", a!=b);
+	printf("%d\n", a<b);
+	printf("%d\n", a>b);
+	printf("%d\n", a<=b);
+	printf("%d\n", a>=b);
+	printf("%d\n", +c);
+	printf("%d\n", -c);
+	printf("%d\n", c+d);
+	printf("%d\n", c-d);
+	printf("%d\n", c*d);
+	printf("%d\n", c*d);
+	printf("%d\n", c % d);
+	printf("%d\n", c / d);
+	printf("%d\n", c==d);
+	printf("%d\n", c!=d);
+	printf("%d\n", c<d);
+	printf("%d\n", c>d);
+	printf("%d\n", c<=d);
+	printf("%d\n", c>=d);
+	printf("%f\n", e+f);
+	printf("%f\n", e-f);
+	printf("%f\n", e*f);
+	printf("%f\n", e*f);
+	printf("%d\n", e==f);
+	printf("%d\n", e!=f);
+	printf("%d\n", e<f);
+	printf("%d\n", e>f);
+	printf("%d\n", e<=f);
+	printf("%d\n", e>=f);
+	printf("%d\n", g==h);
+	printf("%d\n", g!=h);
+	printf("%d\n", g<h);
+	printf("%d\n", g<=h);
+	printf("%d\n", g>h);
+	printf("%d\n", g>=h);
+	printf("%f\n", e+c);
+	printf("%f\n", e-c);
+	printf("%f\n", e*c);
+	printf("%f\n", e*c);
+	printf("%d\n", e==c);
+	printf("%d\n", e!=c);
+	printf("%d\n", e<c);
+	printf("%d\n", e>c);
+	printf("%d\n", e<=c);
+	printf("%d\n", e>=c);
+	printf("%f\n", c+e);
+	printf("%f\n", c-e);
+	printf("%f\n", c*e);
+	printf("%f\n", c*e);
+	printf("%d\n", c==e);
+	printf("%d\n", c!=e);
+	printf("%d\n", c<e);
+	printf("%d\n", c>e);
+	return 0;
+}

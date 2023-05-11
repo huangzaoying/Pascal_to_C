@@ -1,0 +1,4 @@
+At (14, 20), ERROR: Incompatible types : got CHAR expected INT
+
+
+finished.

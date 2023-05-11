@@ -1,0 +1,3 @@
+At (4, 15), ERROR: An opening bracket('[') is expected.
+
+At (4, 15), an unrecoverable error has occurred, the compilation is aborted.

@@ -1,0 +1,6 @@
+At (4, 10), ERROR: The designated identifier has not been declared.(x)
+
+At (4, 10), ERROR: Can't read or write variables of this type
+
+
+finished.

@@ -1,0 +1,6 @@
+At (5, 0), ERROR: The symbol end is expected.
+
+At (5, 0), ERROR: A dot('.') is expected at end of the corresponding begin and end symbols.
+
+
+finished.

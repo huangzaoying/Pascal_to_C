@@ -1,0 +1,4 @@
+At (4, 19), ERROR: A closing bracket(']') is expected.
+
+
+finished.

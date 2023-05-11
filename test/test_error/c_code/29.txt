@@ -1,0 +1,4 @@
+At (4, 9), ERROR: A type identifier is expected here.
+
+
+finished.

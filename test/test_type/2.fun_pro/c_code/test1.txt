@@ -1,0 +1,4 @@
+At (12, 9), ERROR: Incompatible type for arg no. 1: Got REAL , expected INT
+
+
+finished.

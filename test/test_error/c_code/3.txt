@@ -1,0 +1,6 @@
+At (2, 5), ERROR: Program must begin with the symbol 'program'.
+
+At (2, 5), ERROR: A semicolon(';') is expected.
+
+
+finished.
